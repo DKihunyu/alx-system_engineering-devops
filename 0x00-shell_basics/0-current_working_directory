@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd - prints the directory you are currently working on
+ls - list all the items in the directory you are working on
+
